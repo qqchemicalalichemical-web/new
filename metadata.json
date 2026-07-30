@@ -1,0 +1,6 @@
+{
+  "name": "محاكي المبادلات الحرارية المتقدم",
+  "description": "محاكي المبادلات الحرارية الهندسي الشامل - حسابات LMTD و NTU ومعامل U، رسم بياني مباشر، محاكاة 3D تفاعلية، قاعدة بيانات الموائع، اقتراح ذكي للمبادلات، تصدير PDF ومقارنة التصاميم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
